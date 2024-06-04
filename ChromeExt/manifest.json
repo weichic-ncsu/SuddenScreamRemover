@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Sudden Scream Remover",
+  "description": "You can remove those annoying screaming sounds in online videos in real time",
+  "version": "1.0",
+  "action": {
+    "default_popup": "ssr.html",
+    "default_icon": "ext_icon.png"
+  }
+}
